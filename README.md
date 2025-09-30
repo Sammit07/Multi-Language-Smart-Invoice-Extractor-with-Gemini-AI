@@ -78,7 +78,7 @@ Get your API key from **Google AI Studio**.
 
 ### 5️⃣ Run the App  
 ```bash
-streamlit run vision.py
+streamlit run app.py
 ```
 
 ---
